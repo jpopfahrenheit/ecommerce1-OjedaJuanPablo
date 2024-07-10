@@ -1,6 +1,13 @@
 span{
     padding-left: 10px;
+    padding-right: 20px;
     font-size: 1.5em;
     font-weight: 600;
-    color: orange;
+    color: orange;    
+}
+
+nav img{
+    height: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
